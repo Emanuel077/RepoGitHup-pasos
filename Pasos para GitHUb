@@ -1,0 +1,33 @@
+git Init: Es para crear un nuevo repositorio de GitHub
+
+git remote add origin: Link que vamos a copiar del repositorio
+
+git status: para ver el estados de los archivos.
+
+git add: Para agregar los archivos
+git add . : sube todos los archivos creados.
+
+git commit -m:  rastrea y registra todos los cambios que se ha hecho, agregamos un comentario o msj
+
+git push origin master; para pasar los archivos del disco para el repositorio de github
+
+
+
+terterminal
+
+
+---------------------------------------------------------------------------------------------------------------
+IMPORTANTE
+Se dispone de 30 min de completar y enviar
+No debe de tener acentos o letra ñ
+
+1.- Cargar la pagina oficial del departamento de estado de USA https://dvprogam.state.gov
+2.- Primero dar click en el boton verde, comenzar entrada  y escribir el codigo de Autenticacion que aparecera
+3.- Llenat las casillas con los datos personales
+4.- Marcar genero
+5.- Mes/dia/año nacimiento
+6.- Ciudad de nacimiento
+7.- Pais de nacimiento
+8.- Marcar Yes si el pais es elegible en la loteria.
+
+
