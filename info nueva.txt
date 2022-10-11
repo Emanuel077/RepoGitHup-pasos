@@ -1,0 +1,24 @@
+Comandos para exportar y exportar BD
+
+exportar: mysqldump -u nombre_usuario -p nombre_base_datos > Archivo.sql
+importar: mysql -u nombre_usuario -p nombre_base_datos < Archivo.sql
+
+Comandos para gitHub
+WORKING DIRECTORY => git add => stating area = git commit = repository
+
+git init : inicilaiza el repositorio 
+git add:  agrega archivos al repositorio 
+git add .: agrega mas de un archivo al repositorio 
+git status: visualiza los archivos que aun no se han seguido dentro de la carpeta
+git commit: para crear un nuevo punto de control para agrega un comentario para identificar el cambio que se ha guardado 
+git push: envia al repositorio todos los archivos. 
+git log: para ver todos los commits que hemos creado
+git diff: para ver las diferencias hechas en los archivos
+git branch: muestra las versiones de la rama alternativas 
+git breanch login: crea una nueva version (rama)  llamada login 
+git checkout login: Nos permite cambiarnos a la rama login 
+git remote add origin https link del repo: 
+git push -u origin master:  
+
+
+
